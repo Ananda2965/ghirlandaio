@@ -10,8 +10,6 @@
 ## Universitas Islam Negri Syarif Hidayatullah Jakarta
 ## 2026/2027
 # KATA PENGANTAR
-# BAB I : PENDAHULUAN
-## 1.1 Latar Belakang
 Puji syukur kami panjatkan kepada Allah SWT yang telah melimpahkan rahmat dan petunjuk-Nya, sehingga kami dapat menyelesaikan tugas makalah Perpustakaan dan Arsip digital.
 
 Dalam penyusunan makalah ini, kelompok kami menyadari bahwa makalah ini masih terdapat kekurangan dan jauh dari kesempurnaan. Oleh karena itu, kami mengharapkan pembaca dapat memberikan masukan berupa saran dan kritik yang bersifat membangun guna memperbaiki dan menyempurnakan makalah ini.
@@ -20,8 +18,10 @@ Akhir kata kami ucapkan terima kasih kepada semua pihak yang turut berperan dala
 
 Jakarta, 8 April 2026
 
-
 Kelompok 3
+# BAB I : PENDAHULUAN
+## 1.1 Latar Belakang
+
 ## 1.2 Rumusan Masalah
 1. Bagaimana pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang.
 2. Bagaimana pola hubungan antara swasta dan teknologi pada rentang tahun 1960-sekarang.
