@@ -20,3 +20,9 @@ Karenanya, saya setuju bahwa hacking culture ini memang memiliki kontribusi besa
 
 ## Kesimpulan
 Kontribusi terbesar hacking culture terhadap evolusi fungsi komputer adalah perubahan fungsi komputer dari alat hitung menjadi alat komunikasi dan sarana kreativitas. Perubahan ini terjadi karena adanya kebebasan dalam bereksperimen, berbagi pengetahuan, dan mencoba hal baru. Dengan demikian, hacking culture berperan dalam membuat komputer semakin melekat dengan kehidupan sehari-hari manusia.
+
+## Referensi
+Berlin, Leslie. 2017. Troublemakers: Silicon Valley's Coming of Age: Simon and Schuster.
+
+Kelompok 3. (2026). Evolusi Relasi antara Negara, Sektor Swasta, dan Teknologi (1960–Sekarang): Peran Budaya Hacking serta Paradigma Open dan Closed Source
+(Materi Presentasi).
