@@ -76,12 +76,25 @@ b. Keamanan sebagai Nilai Instrumental
 Secara etis, prinsip keamanan siber di lembaga informasi dipandang sebagai nilai instrumental, bukan tujuan akhir Keamanan siber hanyalah sarana untuk melindungi nilai-nilai yang lebih fundamental, yaitu kepercayaan publik terhadap institusi dan privasi pengguna Tanpa keamanan yang kuat, peran perpustakaan sebagai penjaga kebenaran informasi di dunia maya akan runtuh
 
 ## 2.4 Analisa resiko keamanan perpustakaan dan arsip digital berdasarkan data historis
-Analisis risiko ini didasarkan pada kejadian nyata di masa lalu dan data teknis mengenai titik lemah perpustakaan:
-1. Pintu Masuk Serangan Paling Lemah: Komputer umum untuk mencari buku (OPAC) dan Wi-Fi perpustakaan adalah titik paling berbahaya. Karena sifatnya yang terbuka untuk semua orang, peretas paling sering masuk lewat sini.
-2. Faktor Manusia (Kelalaian): Pengunjung atau pengguna adalah "titik paling lemah" dalam keamanan siber. Data menunjukkan bahwa kecerobohan pengguna dalam mengelola kata sandi (password) menyumbang tingkat kerentanan tertinggi dibandingkan staf atau admin TI.
-3. Pelajaran dari Serangan WannaCry & NotPetya: Sejarah membuktikan bahwa serangan besar seringkali sukses bukan karena peretasnya jenius, tapi karena organisasi malas memperbarui (update) sistem. Banyak perpustakaan yang masih memakai perangkat lunak lama yang sudah usang, sehingga mudah dibobol.
-4. Risiko Menumpuk pada Aset Penting: Di sebuah perpustakaan, risiko tidak menyebar rata. Hanya ada sekitar 5 sistem kunci (seperti database utama) yang jika dihancurkan akan melumpuhkan lebih dari separuh (55%) sistem perpustakaan secara keseluruhan.
-5. Dampak Nyata: Serangan ransomware di masa lalu menunjukkan bahwa perpustakaan bisa kehilangan layanan selama berhari-hari dan kehilangan data penting yang tidak bisa dikembalikan lagi jika tidak punya cadangan
+Berdasarkan data penelitian pemodelan risiko dan catatan insiden siber global, risiko keamanan pada lembaga informasi digital tidak tersebar secara merata, melainkan terkonsentrasi pada titik-titik tertentu yang memiliki akses publik tinggi dan perilaku pengguna yang rentan.
+Berikut adalah rincian analisis risikonya:
+a.  Skor Risiko Berdasarkan Jenis Sistem (Cybersecurity Risk Score - CRS)
+Berdasarkan data metrik keamanan siber, setiap subsistem di perpustakaan memiliki tingkat kerentanan yang berbeda :
+1. Terminal OPAC (Online Public Access Catalog): Memiliki skor risiko tertinggi (8,7) karena aksesibilitasnya yang terbuka untuk umum dan sering kali menggunakan protokol otentikasi yang lemah atau usang
+2. Sistem Perpustakaan Terintegrasi (ILS): Memiliki skor risiko menengah (6,5). Meskipun menyimpan data sensitif, sistem ini sering kali tidak sepenuhnya terlindungi dari ancaman kebocoran data
+3. Server Arsip Digital: Memiliki skor risiko terendah (4,8) karena biasanya beroperasi pada jaringan internal khusus yang lebih terlindungi dengan baik
+   
+b. Analisis Kerentanan Faktor Manusia (Human Vulnerability Score - HVS)
+Data historis secara konsisten menempatkan manusia sebagai titik lemah utama. Berdasarkan peran pengguna, tingkat kerentanannya adalah :
+1. Pengunjung/Pengguna Umum (0,7): Menunjukkan tingkat kerentanan tertinggi akibat manajemen kata sandi yang buruk dan kurangnya literasi digital keamanan
+2. Staf Perpustakaan (0,5): Memiliki risiko sedang karena masih rentan terhadap serangan rekayasa sosial atau phishing
+3. Administrator TI (0,3): Memiliki risiko terendah karena mendapatkan pelatihan yang lebih baik dan tunduk pada kontrol akses yang ketat
+
+c. Pembelajaran dari Insiden Historis Global
+Lembaga informasi harus belajar dari kegagalan keamanan di masa lalu:
+1. WannaCry dan NotPetya (2017): Serangan ini membuktikan bahwa kegagalan manajemen pembaruan (patching) adalah risiko fatal. Banyak organisasi lumpuh bukan karena kecanggihan serangan, melainkan karena mengabaikan pembaruan sistem dasar untuk celah yang sebenarnya sudah diketahui
+2. Botnet Mirai (2016): Menunjukkan risiko dari perangkat Internet of Things (IoT) seperti kamera IP atau router yang menggunakan kata sandi bawaan (default), sehingga mudah diambil alih untuk melancarkan serangan besar
+3. Ancaman Persisten Tingkat Lanjut (APT): Data menunjukkan risiko jangka panjang bagi jaringan pendidikan dan arsip digital, di mana penyerang dapat tetap berada di dalam sistem selama bertahun-tahun tanpa terdeteksi melalui backdoor
 
 
 ## 2.5 Vektor dasar keamanan siber bagi Perpustakaan atau Arsip digital
@@ -112,7 +125,9 @@ Vektor keamanan siber bagi perpustakaan digital atau arsip digital mengacu kepad
     
    3. Faktor tata kelola dan kebijakan
 
-      Faktor ini merupakan di mana institusi perlu mengangkat standar internasional seperti ISO/IEC 27001 atau kerangka kerja NIST sebagai prosedur baku dalam manajemen resiko dan keamanan informasi. Hal ini juga perlu dijalankan bersama Standarisasi Prosedur Operasional (SOP) yang mencakup klasifikasi arsip, jadwal retensi, penggunaan audit untuk melacak aktivitas pengguna dan disiplin dalam pencacatan metadata untuk menjagaa utentisistas 
+      Faktor ini merupakan di mana institusi perlu mengangkat standar internasional seperti ISO/IEC 27001 atau kerangka kerja NIST sebagai prosedur baku dalam manajemen resiko dan keamanan informasi. Hal ini juga perlu dijalankan bersama Standarisasi Prosedur Operasional (SOP) yang mencakup klasifikasi arsip, jadwal retensi, penggunaan audit untuk melacak aktivitas pengguna dan disiplin dalam pencacatan metadata untuk menjagaa utentisistas
+      # BAB III PENUTUP
+      ## Kesimpulan
    
 
 
