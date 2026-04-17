@@ -18,7 +18,7 @@ Berdasarkan salah satu sumber dari yang pemateri sampaikan, yaitu buku The Five 
 
 **Kesimpulan**
 
-Adaptasi perpustakaan ke layanan digtal merupakan sebuah representasi dari hukum ke 5 S. R. Rangathan, peprustakaan adalah organisme yang berkembang. Evolusi perpustakaan digital menjadi solusi bagi perpustakaan untuk mengatasi keterbatasan ruang fisik dalam mengelola ledakan informasi sekaligus memperkuat fungsi preservasi untuk jangka panjang, transformasi ini juga memastikan layanan perpustakaan tetap selaras dengan pergeseran perilaku pemustaka modern yang menuntut akses pengetahuan yang serba cepat, fleksibel, dan tanpa batas geografis. Pada akhirnya, dengan bertransformasi menjadi penyedia informasi digital yang adaptif, perpustakaan berhasil mempertahankan relevansinya dan memperkuat posisinya sebagai jantung literasi masyarakat yang terus hidup mengiringi kemajuan zaman.
+Adaptasi perpustakaan ke layanan digtal merupakan sebuah representasi dari hukum ke 5 S. R. Rangathan, perpustakaan adalah organisme yang berkembang. Evolusi perpustakaan digital menjadi solusi bagi perpustakaan untuk mengatasi keterbatasan ruang fisik dalam mengelola ledakan informasi sekaligus memperkuat fungsi preservasi untuk jangka panjang, transformasi ini juga memastikan layanan perpustakaan tetap selaras dengan pergeseran perilaku pemustaka modern yang menuntut akses pengetahuan yang serba cepat, fleksibel, dan tanpa batas geografis. Pada akhirnya, dengan bertransformasi menjadi penyedia informasi digital yang adaptif, perpustakaan berhasil mempertahankan relevansinya dan memperkuat posisinya sebagai jantung literasi masyarakat yang terus hidup mengiringi kemajuan zaman.
 
 
 **Referensi**
