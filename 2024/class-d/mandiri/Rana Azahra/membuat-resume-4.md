@@ -4,4 +4,4 @@
 # nim: 12402051010026
 # matkul: perpustakaan dan arsip digital
 # Konteks
-Resume ini ditulis berdasarkan pertanyaan yang diberikan kepada saya pribadi oleh kelompok 4 dengan materi yang berjudul Etika keamanan siber pada perpustakaan dan lembaga arsip digital: Tantangan dan strategis.
+Resume ini ditulis berdasarkan pertanyaan yang diberikan kepada saya pribadi oleh kelompok 4 dengan materi yang berjudul Etika keamanan siber pada perpustakaan dan lembaga arsip digital: Tantangan dan strategis. yaitu "sebutkan satu cara melindungi data digital!".
